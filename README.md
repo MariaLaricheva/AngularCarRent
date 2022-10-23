@@ -1,6 +1,6 @@
 # CarRentApp
 
-Visit marialaricheva.github.io/AngularCarRent to check it out!
+Visit [this link](marialaricheva.github.io/AngularCarRent) to check it out!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
