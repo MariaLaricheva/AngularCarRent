@@ -14,7 +14,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build --deploy-url '/docs/carRentApp/' --base-href '/docs/carRentApp/'` 
+Run `ng build --deploy-url '/docs/' --base-href '/docs/'` 
 to build the project. The build artifacts will be stored in the `docs/` directory.
 
 ## Running unit tests
